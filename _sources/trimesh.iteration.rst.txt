@@ -1,0 +1,7 @@
+trimesh.iteration module
+========================
+
+.. automodule:: trimesh.iteration
+   :members:
+   :undoc-members:
+   :show-inheritance:
